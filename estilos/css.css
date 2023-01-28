@@ -1,0 +1,134 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+body{
+	background: rgb(178,140,245);
+	background: linear-gradient(90deg, rgba(178,140,245,1) 20%, rgba(81,226,224,1) 31%, rgba(0,212,255,1) 100%);
+}
+
+
+
+h1{
+	
+	width:100%;
+	text-align: center;
+	padding: 50px;
+	font-size: 80px;
+	font-family: constantia;
+	color: #B2FF33;
+	border: solid 1px;
+	border-color: white;
+
+}
+
+
+
+
+.contacto{
+	float: left;
+	width: 400px;
+	font-family: constantia;
+}
+
+
+
+
+.esp{
+	width: 400px;
+	padding: 10px;
+	font-size: 20px;
+	margin: 30px;
+	font-family: arial;
+	font-weight: bolder;
+	text-align: center;
+	color: ;
+}
+
+
+
+
+.icon{
+	width: 40px;
+}
+
+
+
+
+.apt{
+	padding: 30px;
+	font-family: constantia;
+}
+
+
+
+
+img{
+	float: left;
+	width: 400px;
+	border-radius: 200px;
+}
+
+
+
+li{
+	margin-top: 8px;
+	font-family: constantia;
+}
+
+
+
+.perfil{
+	float: left;
+	width: 400px;
+	margin: 50px;
+	font-family: constantia;
+	text-align: justify;
+	color: white;
+
+}
+
+.exp{
+	
+	margin-top: 50px;
+	margin-left: 50px;
+	font-family: constantia;
+	color: white;
+
+}
+
+
+
+h2{
+	font-size: 40px;
+	font-family: constantia;
+}
+
+
+.academica{
+	font-family: constantia;
+	color: white;
+}
+
+
+
+.adicional{
+	font-family: constantia;
+	color: white;
+}
+
+a{
+	width: 100px;
+	font-family: constantia;
+	font-size: 20px;
+	color: #B2FF33;
+}
+
+.formulario{
+	width: 500px;
+	align-items: center;
+}
