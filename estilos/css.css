@@ -132,3 +132,29 @@ a{
 	width: 500px;
 	align-items: center;
 }
+
+.reloj {
+	float: left;
+	margin-left: 80%;
+    color: #B2FF33;
+    font-size: 40px;
+    font-family: Arial;
+    letter-spacing: 5px;
+    text-align: center;
+    background-color: rgba(178,140,245,1);
+    border: 2px solid #fff;
+    border-radius: 20px;
+    width: 300px;
+}
+
+.video{
+margin-top: -650px;
+margin-left: 1500px;
+
+}
+
+h3{
+	font-size: 20px;
+	font-family: constantia;
+	color: #B2FF33;
+}
